@@ -1,0 +1,29 @@
+{"_id":{"$oid":"5b70a9995764bd4384c8f01e"},"name":"coca cola","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":3,"image":"1536859098718z_7296073274414.PNG","__v":0}
+{"_id":{"$oid":"5b70a9ad5764bd4384c8f01f"},"name":"coca cola ZERO","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":3,"image":"1536859103009z_7296073274421.PNG","__v":0}
+{"_id":{"$oid":"5b70a9bd5764bd4384c8f020"},"name":"red wine","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":1,"image":"1536859106787z_7290015348300.PNG","__v":0}
+{"_id":{"$oid":"5b70a9d05764bd4384c8f021"},"name":"another red wine","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":15,"image":"1536859113562z_7290014466890.PNG","__v":0}
+{"_id":{"$oid":"5b70a9e75764bd4384c8f022"},"name":"pink shweps","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":1,"image":"1536859121354z_7290013702470.PNG","__v":0}
+{"_id":{"$oid":"5b70a9fc5764bd4384c8f023"},"name":"orange shweps","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":6,"image":"1536859125497z_2663812.PNG","__v":0}
+{"_id":{"$oid":"5b70aa185764bd4384c8f024"},"name":"watermelon","category":{"$oid":"5b5451e7fcef806240cc79ac"},"price":3,"image":"1536859014078z_965024.PNG","__v":0}
+{"_id":{"$oid":"5b70aa395764bd4384c8f025"},"name":"strawberry","category":{"$oid":"5b5451e7fcef806240cc79ac"},"price":2,"image":"1536859018817z_998251.PNG","__v":0}
+{"_id":{"$oid":"5b70aa4c5764bd4384c8f026"},"name":"banana","category":{"$oid":"5b5451e7fcef806240cc79ac"},"price":4,"image":"1536859022379z_965772.PNG","__v":0}
+{"_id":{"$oid":"5b70aa585764bd4384c8f027"},"name":"grapes","category":{"$oid":"5b5451e7fcef806240cc79ac"},"price":1,"image":"1536859046987z_7296073283133.PNG","__v":0}
+{"_id":{"$oid":"5b70aa6b5764bd4384c8f028"},"name":"pineapple","category":{"$oid":"5b5451e7fcef806240cc79ac"},"price":10,"image":"1536859050899z_7296073292012.PNG","__v":0}
+{"_id":{"$oid":"5b70aade5764bd4384c8f029"},"name":"tnuva milk","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":20,"image":"1536859144545z_42640.PNG","__v":0}
+{"_id":{"$oid":"5b70aaff5764bd4384c8f02a"},"name":"emek cheese","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":1,"image":"1536858951629z_55350.PNG","__v":0}
+{"_id":{"$oid":"5b70aaff5764bd4384c8f02b"},"name":"emek cheese","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":1,"image":"1536858955030z_9956436.PNG","__v":0}
+{"_id":{"$oid":"5b70ab225764bd4384c8f02c"},"name":"tzfatit","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":12,"image":"1536858960831z_554532.PNG","__v":0}
+{"_id":{"$oid":"5b70ab3d5764bd4384c8f02d"},"name":"danone yogurt","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":5,"image":"1536858969962z_3321155.PNG","__v":0}
+{"_id":{"$oid":"5b70ab6e5764bd4384c8f02e"},"name":"milky delicacy","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":1,"image":"1536858979575z_72940761.PNG","__v":0}
+{"_id":{"$oid":"5b70ab905764bd4384c8f02f"},"name":"Cream cheese","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":4,"image":"1536858984534z_7290102393268.PNG","__v":0}
+{"_id":{"$oid":"5b70ab9f5764bd4384c8f030"},"name":"eggs","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":70,"image":"1536858988336z_7296073227786.PNG","__v":0}
+{"_id":{"$oid":"5b70abb35764bd4384c8f031"},"name":"yogurt","category":{"$oid":"5b5451b8fcef806240cc79ab"},"price":10,"image":"1536858993051z_7296073320548.PNG","__v":0}
+{"_id":{"$oid":"5b71d1660d8bbb4f2ceb636c"},"name":"steak","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":1,"image":"1536859065752z_552569.PNG","__v":0}
+{"_id":{"$oid":"5b71d17e0d8bbb4f2ceb636d"},"name":"hamburger","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":4,"image":"1536859069271z_8344272.PNG","__v":0}
+{"_id":{"$oid":"5b71d1960d8bbb4f2ceb636e"},"name":"kebab","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":14,"image":"1536859072611z_2109488.PNG","__v":0}
+{"_id":{"$oid":"5b71d1b60d8bbb4f2ceb636f"},"name":"Tuna","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":5,"image":"1536859076273z_9106909.PNG","__v":0}
+{"_id":{"$oid":"5b71d1cb0d8bbb4f2ceb6370"},"name":"fish","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":14,"image":"1536859081873z_2866145.PNG","__v":0}
+{"_id":{"$oid":"5b71d1d80d8bbb4f2ceb6371"},"name":"another fish","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":1,"image":"1536859085058z_2929185.PNG","__v":0}
+{"_id":{"$oid":"5b7c6f8f6e7b0c19a8e4bb3e"},"name":"other fish","category":{"$oid":"5b5451f1fcef806240cc79ad"},"price":13,"image":"1536859088411z_9392791.PNG","__v":0}
+{"_id":{"$oid":"5b7dafbf8f393128b0880f93"},"name":"apple","category":{"$oid":"5b5451e7fcef806240cc79ac"},"price":12,"image":"1536859054236z_963198.PNG","__v":0}
+{"_id":{"$oid":"5b9a9dbcd827151d144f8da8"},"name":"water","category":{"$oid":"5b5451f9fcef806240cc79ae"},"price":2,"image":"1536859580632z_7296073009771.PNG","__v":0}
