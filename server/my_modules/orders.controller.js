@@ -39,7 +39,8 @@ async function addOrder(req, res) {
             street: req.body.street,
             deliveryDate: req.body.date,
             purchaseDate: new Date().toLocaleDateString(),
-            creditCard: req.body.creditCard.slice(req.body.creditCard.length-4)
+            creditCard: req.body.creditCard.slice(req.body.creditCard.length-4),
+            // products: 
         }
         if(!obj.city || !obj.street || !obj.deliveryDate || !obj.creditCard || obj.city.trim() =='' || obj.street.trim() =='' || obj.deliveryDate.trim() =='' || obj.creditCard.trim() =='') {
             throw 'Missing Details'
